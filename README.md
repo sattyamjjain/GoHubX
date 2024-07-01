@@ -1,11 +1,11 @@
-# GoHub
+# GoHubX
 
-GoHub is a simple Go project to demonstrate the basics of building and structuring a Go application.
+GoHubX is a simple Go project to demonstrate the basics of building and structuring a Go application.
 
 ## Project Structure
 
 ```
-gohub/
+GoHubX/
 ├── go.mod
 ├── go.sum
 ├── greetings
@@ -26,8 +26,8 @@ gohub/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sattyamjjain/gohub.git
-cd gohub
+git clone https://github.com/sattyamjjain/GoHubX.git
+cd GoHubX
 ```
 
 2. Tidy up the dependencies:
